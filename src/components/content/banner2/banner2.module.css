@@ -1,0 +1,22 @@
+.banner2_container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,
+    minmax(min(100%,300px),1fr));
+
+}
+
+
+.info_banner2{
+    width: 100%;
+    
+   
+    
+   
+}
+.platepizza{
+    background-image: url(../../../assets/imgs/content/banner2/platepizza.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}

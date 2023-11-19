@@ -1,0 +1,10 @@
+
+ #brandcontainer:hover #brand{
+color: #48afdf;
+transition: all;
+animation: light 3s;
+ }
+ #brandcontainer:hover .iconsbrand{
+  color: #fff;
+  transition: all;
+ }

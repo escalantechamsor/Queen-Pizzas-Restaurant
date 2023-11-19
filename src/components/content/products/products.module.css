@@ -1,0 +1,11 @@
+.products_container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,
+    minmax(min(100%,300px),1fr));
+}
+.img{
+    width: 100%;
+    aspect-ratio: 3/2;
+    
+   
+}
